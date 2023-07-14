@@ -5,7 +5,7 @@ Dress-Fashion-Creation-Project
 https://raghuvarm17633.github.io/Dress-Fashion-Creation-Project/
 
 
-https://centralindia.healthbot.microsoft.com/account/healthbot-egxtesq
+https://lively-water-056a0b300.3.azurestaticapps.net
 
 
 
