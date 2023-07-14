@@ -17,7 +17,7 @@ https://lifestyleraghu.z29.web.core.windows.net/
        HTML, CSS, JS,
 
 # Project Title:
-   fashion Lifestyle  website
+   Fashion Lifestyle Website
 
 # Problem Statement/Opportunity*:
 In my website i create a fashion store website that helps to find cheap rate and good quality products to help the people to fulfill their desired needs..
@@ -29,7 +29,7 @@ In my website i create a fashion store website that helps to find cheap rate and
 i have created a fashion store website naming dressup using html,css,Javascript.it helps the customer to finds the good products in website.i make a four pages named as home,about services and contact..it is look like a professional website.i am trying to solve the real world problem like in these days we are searching for good and genuine productshere and there.so i make a web app where i try to give every product details. my project helps the both customers and sellers.like for sellers i created a beautiful design that attract customer.
 
 # Primary Azure Technology*:
-Static Web Apps, Static Web Apps,
+Static Web Apps, Storage Account, App Services, bot Services
 
 # use of technology
 A Static Web Application is any web application that can be delivered directly to an end user's browser without any server-side alteration of the HTML, CSS, or JavaScript content. What are the uses of static Web page? Image result for what is the use of static web app in website Uses of Static Website Blogs. Blogs are websites built based on a specific theme, and all the contents of the websites are treated as individual posts under precise topics for the website's theme. ... Marketing & Sales Websites. ... Websites Under-Development. ... Autonomous Domestic Websites Static applications and websites render in the user's browser without the need for server side processing, this means that all the rendering of HTML, CSS, and JavaScript is done on the client side, rather then relying on server side technologies.
