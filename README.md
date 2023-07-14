@@ -4,6 +4,7 @@ Dress-Fashion-Creation-Project
 
 https://raghuvarm17633.github.io/Dress-Fashion-Creation-Project/
 
+https://lifestyleraghu.z29.web.core.windows.net/
 
 https://lively-water-056a0b300.3.azurestaticapps.net
 
